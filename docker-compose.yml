@@ -1,0 +1,11 @@
+version: "3.8"
+
+services:
+    NameClassifier:
+        container_name: nameclassifier
+        image: mohand99/nameclassifier
+        ports: 
+          - "5000:5000"
+        build:
+           context: .
+           dockerfile: Dockerfile
