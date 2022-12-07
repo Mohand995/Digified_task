@@ -24,3 +24,9 @@ Note: in the modeling phase i have developed two models:
 c-How to verify the claim?
 
 the results attached in result folder for the both endpoints would be enough to verify that both the models solve the problem in a good manner.
+
+
+Correct Name :
+
+![alt text](https://github.com/Mohand995/Digified_task/raw/master/Results/Correct/RF_MODEL2.jpg?raw=true)
+
