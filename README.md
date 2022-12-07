@@ -9,6 +9,8 @@ the following command (docker pull quay.io/mohand99/nameclassifier)
 
 b-How to test the solution?
 
+provided in the repo file named Test_API.py that run two unit tests to test the api
+
 you can find it on one of both:
 
 http://127.0.0.1:5000/
