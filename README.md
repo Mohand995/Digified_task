@@ -30,3 +30,7 @@ Correct Name :
 
 ![alt text](https://github.com/Mohand995/Digified_task/raw/master/Results/Correct/RF_MODEL2.jpg?raw=true)
 
+
+Fake Name: 
+
+![alt text](https://github.com/Mohand995/Digified_task/raw/master/Results/Fake/RF_Model1.jpg?raw=True)
