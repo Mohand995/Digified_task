@@ -5,9 +5,15 @@ a-How to build the docker image?
 
 it's very simple as after pulling the image which it's link in the attachment it's only required to generate a running container of the image by running 
 
-the following command ("docker run -it mohand99/nameclassifier ) 
+the following command (docker pull quay.io/mohand99/nameclassifier) 
 
 b-How to test the solution?
+
+you can find it on one of both:
+
+http://127.0.0.1:5000/
+
+http://172.17.0.3:5000/
 
 after running the preceding command server link will be generated (http://127.0.0.1:5000/Guess_Name_DL  or  http://127.0.0.1:5000/Guess_Name_RF )  
 
